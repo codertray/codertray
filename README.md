@@ -15,7 +15,7 @@ I'm a visually impaired creator based in Great Falls, Montana. I'm currently on 
 - LinkedIn: [Tray Cook](https://www.linkedin.com/in/tray-cook-8220b7297)
 - Vero: [Creatortray](https://vero.co/creatortray)
 - Mastodon: [Creatortray](https://mastodon.social/@Creatortray)
-- Email: [creatortray@icloud.com](mailto:creatortray@icloud.com)
+- Email: [tray.cook@creatortray.com](mailto:tray.cook@creatortray.com)
 
 I can't wait to see where this goes!
 <!---
